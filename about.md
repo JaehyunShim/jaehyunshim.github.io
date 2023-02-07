@@ -1,0 +1,20 @@
+---
+layout: about
+# image: /assets/img/blog/hydejack-9.jpg
+description: >
+  Jaehyun Shim's personal webpage.
+hide_description: true
+redirect_from:
+  - /download/
+---
+
+# About
+
+<b>Jaehyun Shim</b>  is a Senior Robotics Research Control Engineer at Dyson, where he utilizes his expertise in controlling highly non-linear systems and developing robotics software frameworks.
+
+Before joining Dyson, Jaehyun worked as a Robotics Laboratory Software Engineer at the University of Edinburgh. 
+During this time, he explored solutions for legged locomotion through numerical optimization and led the software architecture development for the laboratory. 
+He also gained experience as a Robotics Research Engineer at Robotis, where he was involved in the development of an indoor delivery robot and various open-source robots.
+
+Jaehyun holds a B.Eng and M.A.Sc degree in Mechanical Engineering from the University of Tokyo and the University of British Columbia respectively.
+His theses focused on human motion modeling and human-robot interaction.
