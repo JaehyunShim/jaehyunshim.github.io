@@ -10,18 +10,43 @@ redirect_from:
 
 # Research
 
-<li>
-<b>J. Shim</b>, C. Mastalli, T. Corberes, S. Tonneau, V. Ivan, and S. Vijayakumar,
-<b>“Topology-Based MPC for Automatic Footstep Placement and Contact Surface 
-Selection”</b>, International Conference on Robotics and Automation (ICRA), 2023.
-[Paper]
-<!-- <a href="">[Paper]</a> -->
-<a href="https://youtu.be/VpZX-YgHf34">[Video]</a>
-</li><br>
+<div style="text-align:center;">
+  <span style="display: inline-block; background-color: cornflowerblue; color: #fff; padding: 5px 10px; border: none; border-radius: 5px; font-weight: bold; font-size: 12px;">🏷️ Robotics</span>
+  <span style="display: inline-block; background-color: cornflowerblue; color: #fff; padding: 5px 10px; border: none; border-radius: 5px; font-weight: bold; font-size: 12px;">🏷️ Control and Planning</span>
+  <span style="display: inline-block; background-color: cornflowerblue; color: #fff; padding: 5px 10px; border: none; border-radius: 5px; font-weight: bold; font-size: 12px;">🏷️ Legged Locomotion</span>
+  <span style="display: inline-block; background-color: cornflowerblue; color: #fff; padding: 5px 10px; border: none; border-radius: 5px; font-weight: bold; font-size: 12px;">🏷️ Optimal Control</span>
+</div><br>
 
-<li>
-C. Mastalli*, W. Merkt*, G. Xin, <b>J. Shim</b>, M. Mistry, I. Havoutis, and S. Vijayakumar, <b>“Agile 
-Maneuvers in Legged Robots: a Predictive Control Approach”</b>, Under Review, 2023.
-<a href="https://arxiv.org/pdf/2203.07554.pdf">[Paper]</a>
-<a href="https://youtu.be/R8lFti7x5N8">[Video]</a>
-</li>
+<table style="width:100%;">
+  <tr>
+    <td style="width:100%; vertical-align:top;">
+      <b>J. Shim</b>, C. Mastalli, T. Corberes, S. Tonneau, V. Ivan, and S. Vijayakumar, <b>“Topology-Based MPC for Automatic Footstep Placement and Contact Surface Selection”</b>, in International Conference on Robotics and Automation (ICRA), 2023. [Link]
+    </td>
+  </tr>
+  <tr>
+    <td style="width:100%; text-align: center;">
+      <!-- Video -->
+      <div style="max-width: 560px; margin: 0 auto;">
+        <iframe style="width: 100%; height: 315px;" src="https://www.youtube.com/embed/VpZX-YgHf34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:100%; vertical-align:top;">
+      C. Mastalli*, W. Merkt*, G. Xin, <b>J. Shim</b>, M. Mistry, I. Havoutis, and S. Vijayakumar, <b>“Agile Maneuvers in Legged Robots: a Predictive Control Approach”</b>, Under Review, 2023.
+      <a href="https://arxiv.org/pdf/2203.07554.pdf">[Link]</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:100%; text-align: center;">
+      <!-- Video -->
+      <div style="max-width: 560px; margin: 0 auto;">
+        <iframe style="width: 100%; height: 315px;" src="https://www.youtube.com/embed/R8lFti7x5N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+    </td>
+  </tr>
+</table>

@@ -54,8 +54,8 @@ menu:
     url:               /experience/
   - title:             Research
     url:               /research/
-  - title:             Development
-    url:               /development/
+  - title:             Projects
+    url:               /projects/
   - title:             Contact
     url:               /contact/
 

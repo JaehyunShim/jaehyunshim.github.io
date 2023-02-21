@@ -10,101 +10,161 @@ redirect_from:
 
 # Experience
 
-<ul>
-  <li>
-    <b>Senior Robotics Research Control Engineer at Dyson</b><br>
-    <small><span style="color: #999">2022.12 – present, 2 months | Hullavington, UK</span></small><br>
-    <ul><small>
-      <li>Working on highly nonlinear system control for future robotics technology</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Lab Software Engineer at University of Edinburgh</b><br>
-    <small><span style="color: #999">2021.06 – 2022.09, 1 year 4 months | Edinburgh, UK</span></small><br>
-    <ul><small>
-      <li>Researched whole-body dynamics MPC with footstep planning for legged robots</li>
-      <li>Collaborated on integration of whole-body dynamics MPC and Plane Seg for ANYmal</li>
-      <li>Collaborated on a ROS framework for centroidal dynamics footstep planner for Talos</li>
-      <li>Developed Vicon state estimation integration for legged robots: ANYmal and Talos</li>
-      <li>Researched control parameterization for whole-body dynamics MPC</li>
-      <li>Developed a ROS framework, a feedforward PD controller, and peripherals for Solo</li>
-      <li>Developed a generic software framework for legged robots</li>
-      <li>Taught ROS, ROS2, DevOps, and usages for various robots to lab members</li>
-      <li>Maintained various hardware platforms and wrote usages and setups</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Robotics Research Engineer at ROBOTIS</b><br>
-    <small><span style="color: #999">2018.04 – 2021.06, 3 year 3 months | Seoul, Korea</span></small><br>
-    <ul><small>
-      <li>Developed ROS2 based hardware and user interfaces for a wheeled indoor delivery robot</li>
-      <li>Collaborated on a robot navigation system that can be used in buildings with elevators</li>
-      <li>Developed ROS2 applications for Turtlebot3</li>
-      <li>Developed ROS, ROS2 frameworks and applications for OpenManipulator-P/X</li>
-      <li>Implemented forward and inverse kinematics for manipulator robots with various structures: 6-axis articulated vertical, SCARA, Planar, Delta, Stewart and Linear</li>
-      <li>Designed manipulator robots with various structures using 3D CAD tools</li>
-      <li>Developed a ROS framework for RH Gripper</li>
-      <li>Developed ROS applications using open-source libraries: Navigation, Moveit, YOLO and KERAS</li>
-      <li>Developed a ROS framework for a biped robot</li>
-      <li>Implemented forward and inverse kinematics for bipedal robot legs with passive joints</li>
-      <li>Developed a ROS framework and user interfaces for a quadrupedal robot</li>
-      <li>Maintained robot software using tools such as Git, Travis, and Docker</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Research Assistant at CARIS Laboratory, UBC</b><br>
-    <small><span style="color: #999">2015.09 – 2017.12, 2 years 4 months | Vancouver, BC</span></small><br>
-    <ul><small>
-      <li>Researched human-robot interaction using cues acquired from human-human haptic interaction during cooperative bimanual transport of a large object.</li>
-      <li>Conducted modeling of haptic cues from numerical data from experiments using Matlab.</li>
-      <li>Provided the impedance model of a human arm based on the haptic cues for the future development of a robot controller.</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Teaching Assistant for MECH220S course, UBC</b><br>
-    <small><span style="color: #999">2016.09 – 2016.12, 4 months | Vancouver, BC</span></small><br>
-    <ul><small>
-      <li>Taught basic programming skills and Matlab.</li>
-      <li>Taught basic mechanical drawings and Solidworks.</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Visiting Student Researcher at Visual Computing Research Centre, SIAT</b><br>
-    <small><span style="color: #999">2015.04 – 2015.08, 5 months | Shenzhen, China</span></small><br>
-    <ul><small>
-      <li>Developed an application for PR2 and enabled it to navigate and introduce the lab.</li>
-      <li>Acquired robot programming skills: ROS, C++, Python, Linux.</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Research Assistant at Human and Environment Informatics Laboratory, UT Tokyo</b><br>
-    <small><span style="color: #999">2014.10 – 2015.03, 5 months | Tokyo, Japan</span></small><br>
-    <ul><small>
-      <li>Researched continuous blood-pressure monitoring systems and implemented a filter algorithm removing the influence of body movement from blood pressure.</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Research Assistant at Micro Energy System Laboratory, UT Tokyo</b><br>
-    <small><span style="color: #999">2014.04 – 2014.09, 5 months | Tokyo, Japan</span></small><br>
-    <ul><small>
-      <li>Researched the synthetic jet theory and designed a small-sized cooler device</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Project Assistant at Nakamura Laboratory, UT Tokyo</b><br>
-    <small><span style="color: #999">2013.10 – 2013.12, 3 months | Tokyo, Japan</span></small><br>
-    <ul><small>
-      <li>Collaborated on quadruped hardware design based on skeleton data of an actual dog</li>
-    </small></ul>
-  </li>
-  <li>
-    <b>Project Assistant at Rally Car Race “Daruma” team, UT Tokyo</b><br>
-    <small><span style="color: #999">2013.04 – 2014.03, 1 year | Tokyo, Japan</span></small><br>
-    <ul><small>
-      <li>Collaborated on developing an android rally trip meter</li>
-    </small></ul>
-  </li><br>
+<!-- EDUCATION -->
+<h3 style="color:cornflowerblue; margin-top: 1.5em; margin-bottom: -0.5em;">EDUCATION</h3>
+<hr style="height: 1px; background-color: rgba(128, 128, 128, 0.5); margin-bottom: 0.5em; border: none;">
+
+<!-- University of British Columbia -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">University of British Columbia</div>
+  <div style="font-weight: bold; text-align: right;">Vancouver, BC, Canada</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div><em>Master of Applied Science</em> in Mechanical Engineering</div>
+  <div style="text-align: right;">Sep 2015 – Dec 2017</div>
+</div>
+
+<!-- University of Tokyo -->
+<div style="margin-top: 10pt; display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">University of Tokyo</div>
+  <div style="font-weight: bold; text-align: right;">Tokyo, Japan</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div><em>Bachelor of Engineering</em> in Mechanical Engineering</div>
+  <div style="text-align: right;">Apr 2011 – Mar 2015</div>
+</div>
+
+<!-- WORK EXPERIENCE -->
+<h3 style="color:cornflowerblue; margin-top: 1.0em; margin-bottom: -0.5em;">WORK EXPERIENCE</h3>
+<hr style="height: 1px; background-color: rgba(128, 128, 128, 0.5); margin-bottom: 0.5em; border: none;">
+
+<!-- Dyson -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">Dyson</div>
+  <div style="font-weight: bold; text-align: right;">Hullavington, UK</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Senior Robotics Research Control Engineer</div>
+  <div style="text-align: right;">Dec 2022 – present</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Research: highly nonlinear system control using optimal control and reinforcement learning</li>
+  <li>Development: hardware agonistic robot software framework</li>
 </ul>
 
+<!-- SLMC Laboratory at University of Edinburgh -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">SLMC Laboratory at University of Edinburgh</div>
+  <div style="font-weight: bold; text-align: right;">Edinburgh, UK</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Laboratory Robotics Software Engineer</div>
+  <div style="text-align: right;">Jun 2021 – Sep 2022</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Research: footstep planning and control parameterization for full-body dynamics MPC for quadrupeds</li>
+  <li>Development: software framework, feedforward PD controller, Vicon state estimator for legged robots</li>
+  <li>Collaboration: perceptive locomotion for quadrupeds, centroidal dynamics footstep planner for humanoids</li>
+  <li>Management: robot installation, documentation for robot usage, and setup</li>
+  <li>Teaching: robot programming and RobOps to Ph.D. students and postdocs</li>
+  <li>Software: C++, Python, Linux, ROS, ROS2, RViz, Gazebo, Pybullet, Git</li>
+  <li>Robot: ANYbotics ANYmal, Pal Robotics Talos, Kawada Nextage, ODRI Solo, Vicon</li>
+</ul>
 
-For more information, please refer to my <b><a href="../assets/doc/cv.pdf">CV</a><b>.
+<!-- ROBOTIS -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">ROBOTIS</div>
+  <div style="font-weight: bold; text-align: right;">Seoul, Korea</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Senior Robotics Research Engineer</div>
+  <div style="text-align: right;">Jan 2021 – Jun 2021</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Robotics Research Engineer</div>
+  <div style="text-align: right;">Apr 2018 – Jan 2021</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Development: software framework, graphical user interfaces for wheeled, arm, and legged robots, wheeled robots that navigate and ride elevators, forward and inverse kinematics for serial and parallel manipulator structures</li>
+  <li>Software: C++, Python, Matlab, Linux, ROS, ROS2, RViz, Gazebo, Qt, Git, Travis, Docker, Onshape</li>
+  <li>Library: ROS Control, Navigation Stack, MoveIt, YOLO, KERAS</li>
+  <li>Design: customizable small-sized serial and parallel manipulators</li>
+  <li>Robot: ZIPGAEMI, Turtlebot3, OpenManipulator, RH Gripper, small-sized ROBOTIS humanoid</li>
+  <li>OpenSource: open-source robot development and maintenance, communication with the ROS community</li>
+</ul>
+
+<!-- CARIS Laboratory at University of British Columbia -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">CARIS Laboratory at University of British Columbia</div>
+  <div style="font-weight: bold; text-align: right;">Vancouver, BC, Canada</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Research Assistant</div>
+  <div style="text-align: right;">Sep 2015 – Dec 2017</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Research: haptic cues in bimanual cooperative transport of large objects for future human-robot interaction</li>
+  <li>Development: analysis of numerical haptic data and modeling of human arm impedance</li>
+  <li>Software: Matlab, C++ (Arduino)</li>
+  <li>Design: human subject experiment, mechanical and electrical design for experimental tools, sensor calibration</li>
+</ul>
+
+<!-- VCC Laboratory at Shenzhen Institute of Advanced Technology -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">VCC Laboratory at Shenzhen Institute of Advanced Technology</div>
+  <div style="font-weight: bold; text-align: right;">Shenzhen, China</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Visiting Research Assistant</div>
+  <div style="text-align: right;">Apr 2015 – Aug 2015</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Development: Application of PR2 robot for navigation and introduction of the lab</li>
+  <li>Software: ROS, C++, Python, Linux, RViz, Gazebo</li>
+</ul>
+
+<!-- University of Tokyo -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">University of Tokyo</div>
+  <div style="font-weight: bold; text-align: right;">Tokyo, Japan</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Project and Research Assistant</div>
+  <div style="text-align: right;">Apr 2013 – Mar 2015</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Human and Environment Informatics Laboratory: continuous blood-pressure monitoring system (Oct 2014)</li>
+  <li>Micro Energy System Laboratory: small-sized cooler device design using synthetic jet theory (Apr 2014)</li>
+  <li>Nakamura Laboratory: quadruped hardware design based on skeleton data of an actual dog (Oct 2013)</li>
+  <li>Rally Car Race ‘Daruma’ Team: android rally trip meter development (Apr 2013)</li>
+</ul>
+
+<!-- TEACHING -->
+<h3 style="color:cornflowerblue; margin-top: 1.0em; margin-bottom: -0.5em;">TEACHING</h3>
+<hr style="height: 1px; background-color: rgba(128, 128, 128, 0.5); margin-bottom: 0.5em; border: none;">
+
+<!-- University of British Columbia -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">University of British Columbia</div>
+  <div style="font-weight: bold; text-align: right;">Vancouver, BC, Canada</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Teaching Assistant</div>
+  <div style="text-align: right;">Sep 2016 – Dec 2016</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Course: MECH 220S - Technical Skills Practicum (Matlab and Solidworks)</li>
+</ul>
+
+<!-- International Lounge at University of Tokyo -->
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-weight: bold;">International Lounge at University of Tokyo</div>
+  <div style="font-weight: bold; text-align: right;">Tokyo, Japan</div>
+</div>
+<div style="display: flex; justify-content: space-between; font-size: 0.9em; line-height: 1.2;">
+  <div style="font-style: italic;">Language Assistant</div>
+  <div style="text-align: right;">Apr 2014 – Mar 2015</div>
+</div>
+<ul style="line-height: 1.2; padding-top: 5px; font-size: 0.8em;">
+  <li>Assisted local Japanese students with English learning and  international students with Japanese learning</li>
+</ul>
