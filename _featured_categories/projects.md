@@ -210,18 +210,18 @@ redirect_from:
           <table style="width:100%; height:100%;">
             <tr>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2019_om_p.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2019_om_p.gif" style="width:100%;">
               </td>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2019_om_x.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2019_om_x.gif" style="width:100%;">
               </td>
             </tr>
             <tr>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2019_gripper.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2019_gripper.gif" style="width:100%;">
               </td>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2019_tb3.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2019_tb3.gif" style="width:100%;">
               </td>
             </tr>
           </table>
@@ -238,18 +238,18 @@ redirect_from:
           <table style="width:100%; height:100%;">
             <tr>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2018_om_stewart.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2018_om_stewart.gif" style="width:100%;">
               </td>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2018_om_delta.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2018_om_delta.gif" style="width:100%;">
               </td>
             </tr>
             <tr>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2018_om_planar.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2018_om_planar.gif" style="width:100%;">
               </td>
               <td style="width:50%; height:50%; padding: 1px;">
-                <img src="../assets/img/jaehyun/2018_om_linear.gif" style="width:100%; height:100%;">
+                <img src="../assets/img/jaehyun/2018_om_linear.gif" style="width:100%;">
               </td>
             </tr>
           </table>
